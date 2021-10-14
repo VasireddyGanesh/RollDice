@@ -1,0 +1,5 @@
+<resources>
+    <string name="app_name">RollDice</string>
+    <string name="dice_number_show">1</string>
+    <string name="btn_text">Roll</string>
+</resources>
